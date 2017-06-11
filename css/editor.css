@@ -1,0 +1,22 @@
+body{
+	background: skyblue;
+}
+.wysiwyg{
+	margin: auto;
+	margin-left:3em;
+	margin-top: 2em;
+	background: ;
+}
+iframe{
+	border: 1px solid darkcyan;
+	margin-top: 1em;
+	background: #fff;
+	margin-left: 3em;
+}
+#submit{
+	display: block;
+	margin-left: 3em;
+	background: skyblue;
+	border-width: 0px;
+	border: 1px solid #fff;
+}
